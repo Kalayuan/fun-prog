@@ -45,7 +45,7 @@ int main(){
                  printf("·R¤ß %d",y);
                 break;
             case 4:
-                 printf("¶Â®ç %d",y);
+                 printf("¶Â®ç!!! %d",y);
                 break;
           } 
           if(player==21){
