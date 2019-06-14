@@ -1,7 +1,7 @@
 # fun-prog
 collection of fun program made by myself  
-
-code:
-> kjhgkjhg
-> kijhliuh
+  
+code:  
+> kjhgkjhg  
+> kijhliuh  
 > jlkhkljhkj
